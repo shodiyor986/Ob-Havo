@@ -1,4 +1,3 @@
-# Ob-Havo
 <!DOCTYPE html>
 <html lang="uz">
 <head>
